@@ -12,3 +12,6 @@ body{
 .dr {
     font-size: 70px;
 }
+.aside-buttons > li{
+margin-bottom: 10px;
+}
